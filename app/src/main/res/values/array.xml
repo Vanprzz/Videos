@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="media">
+        <item>@string/Camera</item>
+        <item>@string/Gallery</item>
+    </string-array>
+
+    <string-array name="Spinner">
+        <item>@string/Season</item>
+        <item>@string/Season</item>
+    </string-array>
+
+</resources>
